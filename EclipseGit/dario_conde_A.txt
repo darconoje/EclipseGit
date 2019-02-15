@@ -1,8 +1,5 @@
 Archivo nuevo
 Guardado temporalmente
 hola
-<<<<<<< HEAD
 Editado en Eclipse
-=======
 Editado en GitHub
->>>>>>> branch 'master' of https://github.com/darconoje/EclipseGit.git
