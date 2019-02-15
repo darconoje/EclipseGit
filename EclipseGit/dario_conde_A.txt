@@ -1,6 +1,2 @@
 Archivo nuevo
-uno
-dos
-tres
-cuatro
-cinco
+Guardado temporalmente
